@@ -7,7 +7,7 @@ export interface Student {
 const studentA: Student = {
   firstName: "Dolla",
   lastName: "Osho",
-  age: 31,
+  age: 29,
   location: "Lagos, Nigeria",
 };
 const studentB: Student = {
