@@ -14,7 +14,7 @@ const studentB: Student = {
   firstName: "Wiz",
   lastName: "Peters",
   age: 30,
-  location: "Alberta, USA",
+  location: "Alberta, North America",
 };
 
 const studentsList: Array<Student> = [
