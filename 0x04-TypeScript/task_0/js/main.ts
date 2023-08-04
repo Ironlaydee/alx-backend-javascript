@@ -8,13 +8,13 @@ const studentA: Student = {
   firstName: "Dolla",
   lastName: "Osho",
   age: 31,
-  location: "Alberta, North America",
+  location: "Lagos, Nigeria",
 };
 const studentB: Student = {
-  firstName: "Petros",
-  lastName: "Joehannes",
-  age: 29,
-  location: "California, United States of America",
+  firstName: "Wiz",
+  lastName: "Peters",
+  age: 30,
+  location: "Alberta, USA",
 };
 
 const studentsList: Array<Student> = [
