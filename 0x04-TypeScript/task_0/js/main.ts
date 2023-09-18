@@ -7,14 +7,14 @@ export interface Student {
 const studentA: Student = {
   firstName: "Dolla",
   lastName: "Osho",
-  age: 31,
-  location: "Alberta, North America",
+  age: 29,
+  location: "Lagos, Nigeria",
 };
 const studentB: Student = {
-  firstName: "Petros",
-  lastName: "Joehannes",
-  age: 29,
-  location: "California, United States of America",
+  firstName: "Wiz",
+  lastName: "Peters",
+  age: 30,
+  location: "Alberta, North America",
 };
 
 const studentsList: Array<Student> = [
